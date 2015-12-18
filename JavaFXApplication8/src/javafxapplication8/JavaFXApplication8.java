@@ -25,6 +25,8 @@ public class JavaFXApplication8 extends Application {
         
         stage.setScene(scene);
         stage.show();
+        
+        System.out.println("Hola mundo");
     }
 
     /**
